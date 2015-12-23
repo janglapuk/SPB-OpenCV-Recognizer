@@ -1,0 +1,7 @@
+*.py[cod]
+
+.DS_*
+__pycache__
+
+# ignore 'tests' karena gak penting :D
+/tests
