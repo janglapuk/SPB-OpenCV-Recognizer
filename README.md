@@ -1,9 +1,9 @@
 # Setup
 
-1. OpenCV
+* OpenCV
    Silakan download pada laman http://opencv.org/
-   
-2. Clone repo
+
+* Clone repo
 ```
 cd ~
 mkdir github
@@ -12,7 +12,7 @@ git clone https://github.com/janglapuk/SPB-OpenCV-Recognizer.git
 cd SPB-OpenCV-Recognizer
 ```
    
-3. Gunakan virtual environment
+* Gunakan virtual environment
    Asumsikan anda memiliki virtual environment ([virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)) dengan interpreter Python versi 3.x dengan nama `cv3`
 ```
 workon cv3
@@ -26,12 +26,12 @@ python --version
 Python 3.5.1
 ```
 
-4. Install requirements
+* Install requirements
 ```
 pip install -r requirements.txt
 ```
 
-5. Jalankan aplikasi
+* Jalankan aplikasi
 ```
 cd src
 python main.py
@@ -39,4 +39,4 @@ python main.py
 
 # Screenshot
 ### Aplikasi utama
-[![MAIN APP](img/mainapp.jpg)]
+![MAIN APP](img/mainapp.jpg)
