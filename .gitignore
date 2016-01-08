@@ -5,3 +5,5 @@ __pycache__
 
 # ignore 'tests' karena gak penting :D
 /tests
+
+.idea

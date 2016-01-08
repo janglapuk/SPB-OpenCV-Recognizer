@@ -40,3 +40,9 @@ python main.py
 # Screenshot
 ### Aplikasi utama
 ![MAIN APP](img/mainapp.jpg)
+
+![FACE RECOGNIZER](img/fr.jpg)
+
+![OBJECT TRACKER](img/ot.jpg)
+
+![FACE CHANGER](img/fc.jpg)
